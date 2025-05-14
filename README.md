@@ -21,8 +21,9 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 Run the script:
-
+```bash
 python weather.py
+```
 Enter a city name (capitalize the first letter, e.g., London).
 
 🔑 Note
