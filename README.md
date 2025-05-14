@@ -15,17 +15,13 @@ This is a simple command-line weather application that fetches and displays real
 ```bash
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
+```
 Install dependencies:
-
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 Run the script:
 
-bash
-Copy
-Edit
 python weather.py
 Enter a city name (capitalize the first letter, e.g., London).
 
