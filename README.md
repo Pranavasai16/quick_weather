@@ -10,17 +10,17 @@ This is a simple command-line weather application that fetches and displays real
 
 ## ▶️ Usage
 
-Clone the repo:
+1. Clone the repo:
 
 ```bash
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
 ```
-Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Run the script:
+3. Run the script:
 ```bash
 python weather.py
 ```
