@@ -10,7 +10,7 @@ This is a simple command-line weather application that fetches and displays real
 
 ## ▶️ Usage
 
-1. Clone the repo:
+Clone the repo:
 
 ```bash
 git clone https://github.com/yourusername/weather-app.git
